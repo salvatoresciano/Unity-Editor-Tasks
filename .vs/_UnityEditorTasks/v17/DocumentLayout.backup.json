@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Progetti Unity\\_UnityEditorTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{042939EC-4E46-11FD-8A91-1696E22A97B7}|Assembly-CSharp-Editor.csproj|D:\\Progetti Unity\\_UnityEditorTasks\\assets\\editor\\tasks\\taskmanagereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042939EC-4E46-11FD-8A91-1696E22A97B7}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\tasks\\taskmanagereditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042939EC-4E46-11FD-8A91-1696E22A97B7}|Assembly-CSharp-Editor.csproj|d:\\progetti unity\\_unityeditortasks\\assets\\editor\\tasks\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042939EC-4E46-11FD-8A91-1696E22A97B7}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\tasks\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042939EC-4E46-11FD-8A91-1696E22A97B7}|Assembly-CSharp-Editor.csproj|D:\\Progetti Unity\\_UnityEditorTasks\\assets\\editor\\tasks\\datetimeeditorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042939EC-4E46-11FD-8A91-1696E22A97B7}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\tasks\\datetimeeditorextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042939EC-4E46-11FD-8A91-1696E22A97B7}|Assembly-CSharp-Editor.csproj|d:\\progetti unity\\_unityeditortasks\\assets\\editor\\tasks\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042939EC-4E46-11FD-8A91-1696E22A97B7}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\tasks\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042939EC-4E46-11FD-8A91-1696E22A97B7}|Assembly-CSharp-Editor.csproj|d:\\progetti unity\\_unityeditortasks\\assets\\editor\\tasks\\taskcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042939EC-4E46-11FD-8A91-1696E22A97B7}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\editor\\tasks\\taskcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskCategory.cs",
+              "DocumentMoniker": "D:\\Progetti Unity\\_UnityEditorTasks\\Assets\\Editor\\Tasks\\TaskCategory.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\Tasks\\TaskCategory.cs",
+              "ToolTip": "D:\\Progetti Unity\\_UnityEditorTasks\\Assets\\Editor\\Tasks\\TaskCategory.cs",
+              "RelativeToolTip": "Assets\\Editor\\Tasks\\TaskCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:13:53.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task.cs",
+              "DocumentMoniker": "D:\\Progetti Unity\\_UnityEditorTasks\\Assets\\Editor\\Tasks\\Task.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\Tasks\\Task.cs",
+              "ToolTip": "D:\\Progetti Unity\\_UnityEditorTasks\\Assets\\Editor\\Tasks\\Task.cs",
+              "RelativeToolTip": "Assets\\Editor\\Tasks\\Task.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:11:19.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "D:\\Progetti Unity\\_UnityEditorTasks\\Assets\\Editor\\Tasks\\TaskManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\Tasks\\TaskManager.cs",
+              "ToolTip": "D:\\Progetti Unity\\_UnityEditorTasks\\Assets\\Editor\\Tasks\\TaskManager.cs",
+              "RelativeToolTip": "Assets\\Editor\\Tasks\\TaskManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:09:52.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskManagerEditor.cs",
+              "DocumentMoniker": "D:\\Progetti Unity\\_UnityEditorTasks\\Assets\\Editor\\Tasks\\TaskManagerEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\Tasks\\TaskManagerEditor.cs",
+              "ToolTip": "D:\\Progetti Unity\\_UnityEditorTasks\\Assets\\Editor\\Tasks\\TaskManagerEditor.cs",
+              "RelativeToolTip": "Assets\\Editor\\Tasks\\TaskManagerEditor.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAawD0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:58:14.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateTimeEditorExtension.cs",
+              "DocumentMoniker": "D:\\Progetti Unity\\_UnityEditorTasks\\Assets\\Editor\\Tasks\\DateTimeEditorExtension.cs",
+              "RelativeDocumentMoniker": "Assets\\Editor\\Tasks\\DateTimeEditorExtension.cs",
+              "ToolTip": "D:\\Progetti Unity\\_UnityEditorTasks\\Assets\\Editor\\Tasks\\DateTimeEditorExtension.cs",
+              "RelativeToolTip": "Assets\\Editor\\Tasks\\DateTimeEditorExtension.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:57:24.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
