@@ -2,6 +2,10 @@
 Unity Editor Tasks is a utility for Unity that allows developers to manage a list of tasks directly in the editor. Organize your work with categories like Development, Design, Arts, Audio, Bugs, and more.
 
 ---
+You can download the latest version of the Task Manager Unity Package here:
+[Download TaskManager.unitypackage](https://github.com/[TuoUsername]/[NomeRepo]/releases/latest)
+
+---
 
 ## **Task Manager: Organization and Efficiency**  
 🌟 **The Project**  
