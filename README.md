@@ -56,6 +56,7 @@ The Task Manager was created to help developers and project teams:
 ---
 
 ### **💌 Contacts**  
-For questions, suggestions, or contributions, feel free to contact me on [LinkedIn/Twitter/GitHub].  
+For questions, suggestions, or contributions, feel free to contact me on [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ssciano1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvatore-scian%C3%B2/) 
+.  
 
 ---
