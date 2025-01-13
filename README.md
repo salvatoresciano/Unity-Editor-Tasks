@@ -42,6 +42,12 @@ The Task Manager was created to help developers and project teams:
 
 ---
 
+### **🖼️ Some Screenshots**   
+![Tasks List](Assets/Screenshots/tasks_list.png)
+![Add_Task_Feature](Assets/Screenshots/add_task_feature.gif)
+![Search_Feature](Assets/Screenshots/search_feature.gif)
+---
+
 ### **🚀 Future Goals**  
 - **Enhance Visual Design**: Integrate animations for smoother transitions.  
 - **Team Support**: Add collaborative features (e.g., assigning tasks to team members).  
