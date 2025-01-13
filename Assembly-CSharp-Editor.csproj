@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{042939EC-4E46-11FD-8A91-1696E22A97B7}</ProjectGuid>
+    <ProjectGuid>{2D7402CF-69C2-1598-A0C4-E4F2C8638ED7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -61,14 +61,14 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.27f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\UnityEditorTasks\Editor\Tasks\Managers\TaskManagerEditor.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
-    <Compile Include="Assets\Editor\Tasks\TaskStatus.cs" />
-    <Compile Include="Assets\Editor\Tasks\TaskManager.cs" />
-    <Compile Include="Assets\Editor\Tasks\DateTimeEditorExtension.cs" />
-    <Compile Include="Assets\Editor\Tasks\Task.cs" />
-    <Compile Include="Assets\Editor\Tasks\TaskManagerEditor.cs" />
-    <Compile Include="Assets\Editor\Tasks\TaskPriority.cs" />
-    <Compile Include="Assets\Editor\Tasks\TaskCategory.cs" />
+    <Compile Include="Assets\UnityEditorTasks\Editor\Tasks\Extensions\DateTimeEditorExtension.cs" />
+    <Compile Include="Assets\UnityEditorTasks\Editor\Tasks\Models\Task.cs" />
+    <Compile Include="Assets\UnityEditorTasks\Editor\Tasks\Models\TaskStatus.cs" />
+    <Compile Include="Assets\UnityEditorTasks\Editor\Tasks\Managers\TaskManager.cs" />
+    <Compile Include="Assets\UnityEditorTasks\Editor\Tasks\Models\TaskCategory.cs" />
+    <Compile Include="Assets\UnityEditorTasks\Editor\Tasks\Models\TaskPriority.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1334,7 +1334,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{C2B7D587-F95B-0B89-0AD0-22AC81656FE2}</Project>
+      <Project>{88DCC0EB-2268-8BA5-F2C3-B065832844C5}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
