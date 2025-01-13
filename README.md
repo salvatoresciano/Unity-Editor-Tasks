@@ -3,7 +3,7 @@ Unity Editor Tasks is a utility for Unity that allows developers to manage a lis
 
 ---
 You can download the latest version of the Task Manager Unity Package here:
-[Download TaskManager.unitypackage](https://github.com/[TuoUsername]/[NomeRepo]/releases/latest)
+[Download TaskManager.unitypackage](https://github.com/salvatoresciano/Unity-Editor-Tasks/releases/latest)
 
 ---
 
